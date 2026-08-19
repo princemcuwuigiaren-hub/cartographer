@@ -1,1 +1,1 @@
-{}
+{"564628":{"filters":{"limit":"10","permission":"TIER_ONE"},"resultSet":{"count":0},"aggregates":{"numberOfMatches":10,"totalGoals":23,"homeTeam":{"id":78,"name":"Club Atlético de Madrid","wins":0,"draws":2,"losses":0},"awayTeam":{"id":84,"name":"Málaga CF","wins":0,"draws":2,"losses":0}},"matches":[]}}
